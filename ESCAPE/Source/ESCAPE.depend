@@ -1,0 +1,762 @@
+# depslib dependency file v1.0
+1546600101 source:c:\users\¼ï°a\desktop\escape\main.cpp
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"back.h"
+	"front.h"
+	"left.h"
+	"right.h"
+	"LTexture.h"
+	"objecttemplate.h"
+	"computer.h"
+	"menu.h"
+	"backpack.h"
+
+1546419395 c:\users\¼ï°a\desktop\escape\header.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+
+1546598664 source:c:\users\¼ï°a\desktop\escape\front.cpp
+	"front.h"
+	"computer.h"
+	"backpack.h"
+	"animate.h"
+
+1546598664 source:c:\users\¼ï°a\desktop\escape\left.cpp
+	"left.h"
+	"right.h"
+	"front.h"
+
+1546598663 source:c:\users\¼ï°a\desktop\escape\ltexture.cpp
+	"LTexture.h"
+
+1546598663 source:c:\users\¼ï°a\desktop\escape\right.cpp
+	"right.h"
+	"backpack.h"
+	"front.h"
+
+1546598664 source:c:\users\¼ï°a\desktop\escape\back.cpp
+	"back.h"
+	"backpack.h"
+	"front.h"
+
+1546598663 source:c:\users\¼ï°a\desktop\escape\objecttemplate.cpp
+	"objecttemplate.h"
+
+1546598664 source:c:\users\¼ï°a\desktop\escape\computer.cpp
+	"computer.h"
+	"right.h"
+
+1546418355 c:\users\¼ï°a\desktop\escape\computer.cpp
+	"header.h"
+
+1546598663 c:\users\¼ï°a\desktop\escape\ltexture.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+
+1546598663 c:\users\¼ï°a\desktop\escape\objecttemplate.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"LTexture.h"
+
+1546598664 c:\users\¼ï°a\desktop\escape\back.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+	"animate.h"
+
+1546598663 c:\users\¼ï°a\desktop\escape\left.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+
+1546598663 c:\users\¼ï°a\desktop\escape\right.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+
+1546598664 c:\users\¼ï°a\desktop\escape\front.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+
+1546598664 c:\users\¼ï°a\desktop\escape\computer.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+	"front.h"
+
+1546702292 source:c:\users\user\desktop\escape\back.cpp
+	"back.h"
+	"backpack.h"
+	"front.h"
+
+1546702292 c:\users\user\desktop\escape\back.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+	"animate.h"
+
+1546702292 c:\users\user\desktop\escape\objecttemplate.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"LTexture.h"
+
+1546702292 c:\users\user\desktop\escape\ltexture.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+
+1546702292 source:c:\users\user\desktop\escape\computer.cpp
+	"computer.h"
+	"right.h"
+
+1546702292 c:\users\user\desktop\escape\computer.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+	"front.h"
+
+1546702292 c:\users\user\desktop\escape\front.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+
+1546702292 c:\users\user\desktop\escape\right.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+
+1546702292 source:c:\users\user\desktop\escape\front.cpp
+	"front.h"
+	"computer.h"
+	"backpack.h"
+	"animate.h"
+
+1546702292 source:c:\users\user\desktop\escape\left.cpp
+	"left.h"
+	"right.h"
+	"front.h"
+
+1546702292 c:\users\user\desktop\escape\left.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+
+1546702292 source:c:\users\user\desktop\escape\ltexture.cpp
+	"LTexture.h"
+
+1546702504 source:c:\users\user\desktop\escape\main.cpp
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"back.h"
+	"front.h"
+	"left.h"
+	"right.h"
+	"LTexture.h"
+	"objecttemplate.h"
+	"computer.h"
+	"menu.h"
+	"backpack.h"
+
+1546702292 source:c:\users\user\desktop\escape\objecttemplate.cpp
+	"objecttemplate.h"
+
+1546702292 source:c:\users\user\desktop\escape\right.cpp
+	"right.h"
+	"backpack.h"
+	"front.h"
+
+1546702284 c:\users\user\desktop\escape\backpack.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+
+1546704076 source:c:\users\user\desktop\escape\backpack.cpp
+	"backpack.h"
+
+1546598664 c:\users\¼ï°a\desktop\escape\backpack.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+
+1546598664 source:c:\users\¼ï°a\desktop\escape\backpack.cpp
+	"backpack.h"
+
+1546598663 source:c:\users\¼ï°a\desktop\escape\animate.cpp
+	<ctime>
+	"animate.h"
+
+1546598663 c:\users\¼ï°a\desktop\escape\menu.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+
+1546598664 c:\users\¼ï°a\desktop\escape\animate.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+
+1546600101 source:c:\users\¼ï°a\desktop\escape\menu.cpp
+	"menu.h"
+	"animate.h"
+
+1546497204 source:c:\users\david\desktop\cp\escape\animate.cpp
+	"animate.h"
+
+1546496624 c:\users\david\desktop\cp\escape\animate.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+
+1546496614 c:\users\david\desktop\cp\escape\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+
+1546497623 source:c:\users\david\desktop\cp\escape\back.cpp
+	"back.h"
+	"backpack.h"
+
+1546496563 c:\users\david\desktop\cp\escape\back.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+	"animate.h"
+
+1546496579 c:\users\david\desktop\cp\escape\objecttemplate.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"LTexture.h"
+
+1546502950 c:\users\david\desktop\cp\escape\backpack.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+
+1546505275 source:c:\users\david\desktop\cp\escape\backpack.cpp
+	"backpack.h"
+
+1546438594 source:c:\users\david\desktop\cp\escape\computer.cpp
+	"computer.h"
+	"right.h"
+
+1546496597 c:\users\david\desktop\cp\escape\computer.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+	"front.h"
+
+1546496588 c:\users\david\desktop\cp\escape\front.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+
+1546496842 c:\users\david\desktop\cp\escape\right.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+
+1546438598 source:c:\users\david\desktop\cp\escape\front.cpp
+	"front.h"
+	"computer.h"
+
+1546502453 source:c:\users\david\desktop\cp\escape\left.cpp
+	"left.h"
+	"right.h"
+
+1546496637 c:\users\david\desktop\cp\escape\left.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+
+1546438600 source:c:\users\david\desktop\cp\escape\ltexture.cpp
+	"LTexture.h"
+
+1546505002 source:c:\users\david\desktop\cp\escape\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"back.h"
+	"front.h"
+	"left.h"
+	"right.h"
+	"LTexture.h"
+	"objecttemplate.h"
+	"computer.h"
+	"menu.h"
+	"backpack.h"
+
+1546496643 c:\users\david\desktop\cp\escape\menu.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+
+1546438600 source:c:\users\david\desktop\cp\escape\menu.cpp
+	"menu.h"
+	"animate.h"
+
+1546438602 source:c:\users\david\desktop\cp\escape\objecttemplate.cpp
+	"objecttemplate.h"
+
+1546502990 source:c:\users\david\desktop\cp\escape\right.cpp
+	"right.h"
+	"backpack.h"
+
+1546703798 source:c:\users\user\desktop\escape\animate.cpp
+	<ctime>
+	"animate.h"
+
+1546702284 c:\users\user\desktop\escape\animate.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+
+1546702284 c:\users\user\desktop\escape\menu.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+
+1546702284 source:c:\users\user\desktop\escape\menu.cpp
+	"menu.h"
+	"animate.h"
+
+1542787777 source:c:\program files (x86)\codeblocks\sdl_bgi-2.2.4\src\sdl_bgi.c
+	"SDL_bgi.h"
+
+1542787777 c:\program files (x86)\codeblocks\sdl_bgi-2.2.4\src\sdl_bgi.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_keycode.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1546660282 source:c:\users\¼ï°a\desktop\frank\escape\animate.cpp
+	<ctime>
+	"animate.h"
+
+1546660282 c:\users\¼ï°a\desktop\frank\escape\animate.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+
+1546660282 c:\users\¼ï°a\desktop\frank\escape\ltexture.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+
+1546660282 source:c:\users\¼ï°a\desktop\frank\escape\back.cpp
+	"back.h"
+	"backpack.h"
+	"front.h"
+
+1546660282 c:\users\¼ï°a\desktop\frank\escape\back.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+	"animate.h"
+
+1546660282 c:\users\¼ï°a\desktop\frank\escape\objecttemplate.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"LTexture.h"
+
+1546660282 c:\users\¼ï°a\desktop\frank\escape\backpack.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+
+1546660281 c:\users\¼ï°a\desktop\frank\escape\front.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+
+1546660282 source:c:\users\¼ï°a\desktop\frank\escape\backpack.cpp
+	"backpack.h"
+
+1546660281 source:c:\users\¼ï°a\desktop\frank\escape\computer.cpp
+	"computer.h"
+	"right.h"
+
+1546660282 c:\users\¼ï°a\desktop\frank\escape\computer.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+	"front.h"
+
+1546660281 c:\users\¼ï°a\desktop\frank\escape\right.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+
+1546660282 source:c:\users\¼ï°a\desktop\frank\escape\front.cpp
+	"front.h"
+	"computer.h"
+	"backpack.h"
+	"animate.h"
+
+1546660281 source:c:\users\¼ï°a\desktop\frank\escape\left.cpp
+	"left.h"
+	"right.h"
+	"front.h"
+
+1546660281 c:\users\¼ï°a\desktop\frank\escape\left.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+
+1546660282 source:c:\users\¼ï°a\desktop\frank\escape\ltexture.cpp
+	"LTexture.h"
+
+1546666292 source:c:\users\¼ï°a\desktop\frank\escape\main.cpp
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"back.h"
+	"front.h"
+	"left.h"
+	"right.h"
+	"LTexture.h"
+	"objecttemplate.h"
+	"computer.h"
+	"menu.h"
+	"backpack.h"
+
+1546660282 c:\users\¼ï°a\desktop\frank\escape\menu.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+
+1546660282 source:c:\users\¼ï°a\desktop\frank\escape\menu.cpp
+	"menu.h"
+	"animate.h"
+
+1546660282 source:c:\users\¼ï°a\desktop\frank\escape\objecttemplate.cpp
+	"objecttemplate.h"
+
+1546660281 source:c:\users\¼ï°a\desktop\frank\escape\right.cpp
+	"right.h"
+	"backpack.h"
+	"front.h"
+
+1546703798 source:c:\users\user\desktop\escape\escape_§¹¾ãª©\animate.cpp
+	<ctime>
+	"animate.h"
+
+1546702284 c:\users\user\desktop\escape\escape_§¹¾ãª©\animate.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+
+1546702292 c:\users\user\desktop\escape\escape_§¹¾ãª©\ltexture.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+
+1546702292 source:c:\users\user\desktop\escape\escape_§¹¾ãª©\back.cpp
+	"back.h"
+	"backpack.h"
+	"front.h"
+
+1546702292 c:\users\user\desktop\escape\escape_§¹¾ãª©\back.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+	"animate.h"
+
+1546702292 c:\users\user\desktop\escape\escape_§¹¾ãª©\objecttemplate.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"LTexture.h"
+
+1546702284 c:\users\user\desktop\escape\escape_§¹¾ãª©\backpack.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+
+1546702292 c:\users\user\desktop\escape\escape_§¹¾ãª©\front.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+
+1546704076 source:c:\users\user\desktop\escape\escape_§¹¾ãª©\backpack.cpp
+	"backpack.h"
+
+1546702292 source:c:\users\user\desktop\escape\escape_§¹¾ãª©\computer.cpp
+	"computer.h"
+	"right.h"
+
+1546702292 c:\users\user\desktop\escape\escape_§¹¾ãª©\computer.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+	"front.h"
+
+1546702292 c:\users\user\desktop\escape\escape_§¹¾ãª©\right.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+
+1546702292 source:c:\users\user\desktop\escape\escape_§¹¾ãª©\front.cpp
+	"front.h"
+	"computer.h"
+	"backpack.h"
+	"animate.h"
+
+1546702292 source:c:\users\user\desktop\escape\escape_§¹¾ãª©\left.cpp
+	"left.h"
+	"right.h"
+	"front.h"
+
+1546702292 c:\users\user\desktop\escape\escape_§¹¾ãª©\left.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+
+1546702292 source:c:\users\user\desktop\escape\escape_§¹¾ãª©\ltexture.cpp
+	"LTexture.h"
+
+1546702504 source:c:\users\user\desktop\escape\escape_§¹¾ãª©\main.cpp
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"back.h"
+	"front.h"
+	"left.h"
+	"right.h"
+	"LTexture.h"
+	"objecttemplate.h"
+	"computer.h"
+	"menu.h"
+	"backpack.h"
+
+1546702284 c:\users\user\desktop\escape\escape_§¹¾ãª©\menu.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"objecttemplate.h"
+
+1546702284 source:c:\users\user\desktop\escape\escape_§¹¾ãª©\menu.cpp
+	"menu.h"
+	"animate.h"
+
+1546702292 source:c:\users\user\desktop\escape\escape_§¹¾ãª©\objecttemplate.cpp
+	"objecttemplate.h"
+
+1546702292 source:c:\users\user\desktop\escape\escape_§¹¾ãª©\right.cpp
+	"right.h"
+	"backpack.h"
+	"front.h"
+
