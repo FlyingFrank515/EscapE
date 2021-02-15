@@ -7,4 +7,13 @@ SDL is the abbreviation of "Simple DirectMedia Layer",which is a cross-platform 
 
 You can visit https://lazyfoo.net/tutorials/SDL/ to get the tutorial of SDL.
 
-## 
+## Introduction ##
+You can visit https://www.youtube.com/watch?v=bdY6JGXtAsk&ab_channel=%E8%BB%92%E6%BD%98 to see the introduction video of this game.
+
+## Execute ##
+1. Download the repo and cd to **EscapE/Release**.
+2. Type **./ESCAPE** to start the game.(The tutorial is in the game.)
+3. Getting stucked? Try visiting **EscapE/Releasesolution.txt** to see the walkthrough(in tranditional chinese).
+
+## Source code ##
+The source code is in **EscapE/Source**.
