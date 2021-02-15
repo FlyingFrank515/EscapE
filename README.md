@@ -13,7 +13,7 @@ You can visit https://www.youtube.com/watch?v=bdY6JGXtAsk&ab_channel=%E8%BB%92%E
 ## Execute ##
 1. Download the repo and cd to **EscapE/Release**.
 2. Type **./ESCAPE** to start the game.(The tutorial is in the game.)
-3. Getting stucked? Try visiting **EscapE/Releasesolution.txt** to see the walkthrough(in tranditional chinese).
+3. Getting stucked? Try visiting **EscapE/Release/solution.txt** to see the walkthrough(in tranditional chinese).
 
 ## Source code ##
 The source code is in **EscapE/Source**.
